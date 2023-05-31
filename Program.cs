@@ -5,7 +5,7 @@ public class Program
 
     public static void Main(string[] args)
     {
-        RollDice rollDice = new RollDice();
+        RollDice rollDice = new();
     
         while (true)
         {
